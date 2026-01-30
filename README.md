@@ -1,6 +1,9 @@
 <p align = "center">
 	<img src = "https://github.com/Fixables/snek.svg/blob/main/snek.svg" alt = "Snake Game"/>
 </p>
+<p align = "center">
+	<img src = "https://github.com/Fixables/snek.svg/blob/main/andyintro.svg" alt = "Andy Intro Banner"/>
+</p>
 # Andy Setiawan
 
 Hi, I’m **Andy Setiawan**, originally from **Bali, Indonesia**. I love the outdoors (hiking, nature, exploring new places), but I’m equally obsessed with building things, especially **electronics, PCB design, control systems, and robotics**.
