@@ -2,7 +2,7 @@
 	<img src = "https://github.com/Fixables/snek.svg/blob/main/snek.svg" alt = "Snake Game"/>
 </p>
 <p align = "center">
-	<img src = "https://github.com/Fixables/snek.svg/blob/main/andyintro.svg" alt = "Andy Intro Banner"/>
+	<img src = "https://github.com/Fixables/sveg.svg/blob/main/andybannerv1.svg" alt = "Andy Intro Banner"/>
 </p>
 # Andy Setiawan
 
