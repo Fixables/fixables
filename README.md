@@ -6,7 +6,7 @@
   <img src="https://github.com/Fixables/sveg.svg/blob/main/andybannerv1.svg" alt="Andy Intro Banner"/>
 </p>
 
-# Andy Setiawan 👋
+# Hey there! 👋
 
 Hi, I’m **Andy Setiawan**, originally from **Bali, Indonesia** 🌴. I love the outdoors (hiking, nature, exploring new places) 🥾⛰️, but I’m equally obsessed with building things, especially **electronics, PCB design, control systems, and robotics** ⚡🧠🤖.
 
