@@ -8,7 +8,7 @@
 
 # Hey there! 👋
 
-Hi, I’m **Andy Setiawan**, originally from **Bali, Indonesia** 🌴. I love the outdoors (hiking, nature, exploring new places) 🥾⛰️, but I’m equally obsessed with building things, especially **electronics, PCB design, control systems, and robotics** ⚡🧠🤖.
+I’m **Andy Setiawan**, originally from **Bali, Indonesia** 🌴. I love the outdoors (hiking, nature, exploring new places) 🥾⛰️, but I’m equally obsessed with building things, especially **electronics, PCB design, control systems, and robotics** ⚡🧠🤖.
 
 Back home, my family runs a small electronics shop, and that’s where I learned a lot of my fundamentals early on, like **soldering (SMT/THT), testing with basic instruments, debugging, electronic repairs, and modifications**. That hands-on start still shapes how I approach engineering today: measure, diagnose, improve, repeat, hence my motto: “Everything is **Fixables**!”
 
