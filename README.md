@@ -12,6 +12,10 @@ I’m **Andy Setiawan**, originally from **Bali, Indonesia** 🌴. I love the ou
 
 Back home, my family runs a small electronics shop, and that’s where I learned a lot of my fundamentals early on, like **soldering (SMT/THT), testing with basic instruments, debugging, electronic repairs, and modifications**. That hands-on start still shapes how I approach engineering today: measure, diagnose, improve, repeat, hence my motto: “Everything is **Fixables**!”
 
+<p align="center">
+  <img src="https://github.com/Fixables/sveg.svg/blob/main/assets/IMG_20230706_090657.jpg" alt="WorkbenchKintamani"/>
+</p>
+
 ---
 
 ## Education 🎓
