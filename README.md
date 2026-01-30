@@ -20,7 +20,7 @@ Back home, my family runs a small electronics shop, and that’s where I learned
 
 ## Education 🎓
 
-**The University of British Columbia (UBC)** — Vancouver, BC 🇨🇦  
+**The University of British Columbia (UBC)** — Vancouver, BC 🍁
 **BASc, Electrical Engineering** (Sept 2023 – May 2027 expected)
 
 ---
