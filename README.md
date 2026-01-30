@@ -1,109 +1,50 @@
 <p align = "center">
 	<img src = "https://github.com/Fixables/snek.svg/blob/main/snek.svg" alt = "Snake Game"/>
 </p>
-# Hi there, I'm Andy 👋
+# Andy Setiawan
 
-I'm an Electrical Engineering student with a strong hands-on background in electronics, embedded systems, and data-driven problem solving. I enjoy building things that actually work in the real world — whether that’s firmware on a microcontroller, a control system for a robot, or a data pipeline that tells a meaningful story.
+Hi, I’m **Andy Setiawan**, originally from **Bali, Indonesia**. I love the outdoors (hiking, nature, exploring new places), but I’m equally obsessed with building things, especially **electronics, PCB design, control systems, and robotics**.
 
-I’m particularly interested in the intersection of **hardware, software, and data**, where theory meets solder smoke (the good kind).
-
----
-
-## 🎓 Education
-
-**Bachelor of Applied Science (BASc) — Electrical Engineering**  
-University of British Columbia (UBC), Vancouver  
-*Currently in my 3rd year*
+Back home, my family runs a small electronics shop, and that’s where I learned a lot of my fundamentals early on, like **soldering (SMT/THT), testing with basic instruments, debugging, electronic repairs, and modifications**. That hands-on start still shapes how I approach engineering today: measure, diagnose, improve, repeat.
 
 ---
 
-## 🏅 Scholarships & Awards
+## Education
 
-- **Full-Ride International Scholarship (Indonesia)**  
-- **Dean’s Honour List** (multiple terms)  
-- Additional merit-based academic awards
-
-These supported my studies and allowed me to focus heavily on technical projects, research, and extracurricular engineering work.
+**The University of British Columbia (UBC)** — Vancouver, BC  
+**BASc, Electrical Engineering** (Sept 2023 – May 2027 expected)
 
 ---
 
-## 🔧 Background & Experience
+## Awards
 
-I’ve been involved in **hands-on electronics work since a young age**, helping in my family’s electronics workshop with tasks such as:
-- Soldering (SMD & through-hole)
-- Circuit troubleshooting and repair
-- Component-level diagnostics
-- Customer-facing technical support
-
-At university, this evolved into:
-- Robotics and embedded systems projects
-- PCB design and simulation
-- Firmware development
-- Data analysis for engineering systems
+- **Indonesia Maju Scholarship** (CAD 400,000+ full-ride, MoECRT Indonesia)  
+- **Dean’s List**  
+- **Faculty of Applied Science International Student Scholarship**  
+- **Kenneth George VanSacker Memorial Scholarship**
 
 ---
 
-## 🧠 Interests
+## Projects
 
-- Embedded systems & firmware development  
-- Robotics and control systems  
-- Power electronics & motor control  
-- Data analysis and applied statistics  
-- Hardware–software co-design  
-- Engineering systems with real-world impact  
+**Open Robotics (UBC)**
+- **RoboCup@Home Safety Power Board:** designed and validated an emergency-stop power cutoff system, including schematic + 2-layer PCB in Altium and testbench verification.  
+- **Haptic BLDC Knob:** developing a closed-loop BLDC haptic system using encoder feedback and control (PID) to generate programmable torque responses.
 
----
+**Smart Energy Meter (ESP32)**
+- Building an IoT energy monitoring system using voltage/current sensing with calibration and a Python analytics workflow for visualization and anomaly detection.
 
-## 🛠️ Technical Skills
+**Reflow Oven Controller (8051)**
+- Implemented a PWM-controlled reflow profile controller with calibrated temperature measurement and live visualization tools.
 
-### Hardware & Electronics
-- Circuit analysis & design  
-- PCB design (Altium)  
-- Power electronics & motor control  
-- Sensors, actuators, and instrumentation  
-- Debugging with oscilloscopes & logic analysers  
-
-### Embedded & Software
-- C / C++ (microcontrollers)
-- Arduino, ESP32, 8051, ARM
-- FreeRTOS & real-time systems
-- Python (NumPy, Pandas, Matplotlib)
-- MATLAB
-- R (statistical analysis)
-
-### Data & Tools
-- Statistical modelling & inference
-- SQL & basic database design
-- Git & GitHub
-- LTspice, PlatformIO
+**BrewBox Instrumentation**
+- Integrated environmental sensing (e.g., temperature, pH, DO, CO₂ activity) with attention to repeatability, noise reduction, and long-term stability.
 
 ---
 
-## 🚀 Projects
+## Links
 
-Here are a few highlights — details live in their respective repositories:
+- Email: **andy.setiawan9910@gmail.com**  
+- LinkedIn: https://www.linkedin.com/in/andysetiawan1405/  
+- Portfolio: https://andysetiawan.netlify.app
 
-- **Reflow Oven Controller**  
-  Embedded control system using a microcontroller, thermocouple sensing, PID-style control logic, and real-time data logging.
-
-- **Coin-Picking Robot**  
-  Autonomous robot with motor control, sensing, decision logic, and system-level integration.
-
-- **BLDC Haptic Knob**  
-  Precision motor control project involving encoders, current control concepts, and real-time firmware.
-
-- **Smart Energy Meter (IoT)**  
-  ESP32-based system for voltage/current sensing, data logging, and remote monitoring.
-
-More projects (and experiments) are sprinkled across this GitHub — feel free to have a wander.
-
----
-
-## 📫 Let’s Connect
-
-- GitHub: *You’re already here 😉*  
-- LinkedIn: *(add link here)*  
-
-I’m always happy to chat about engineering, projects, or opportunities — especially if they involve building things that don’t catch fire.
-
----
