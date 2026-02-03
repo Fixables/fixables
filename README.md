@@ -38,7 +38,7 @@ Back home, my family runs a small electronics shop, and that’s where I learned
 
 **Open Robotics (UBC)**   
 - **RoboCup@Home Safety Power Board:** designed and validated an emergency-stop power cutoff system, including schematic + 2-layer PCB in Altium and testbench verification   
-- **Haptic BLDC Knob:** developing a closed-loop BLDC haptic system using encoder feedback and control (PID) to generate programmable torque responses 
+- **[Haptic BLDC Knob:](https://github.com/Haptic-Knob-by-Open-Robotics/Haptic-Knob)** developing a closed-loop BLDC haptic system using encoder feedback and control (PID) to generate programmable torque responses 
 
 **Smart Energy Meter (ESP32)**   
 - Building an IoT energy monitoring system using voltage/current sensing with calibration and a Python analytics workflow for visualization and anomaly detection 
