@@ -55,4 +55,4 @@ Back home, my family runs a small electronics shop, and that’s where I learned
 
 - ✉️ Email: **andy.setiawan9910@gmail.com**   
 - 💼 LinkedIn: https://www.linkedin.com/in/andysetiawan1405/   
-- 🌐 Portfolio: https://andysetiawan.netlify.app 
+- 🌐 Portfolio: https://fixables.github.io/ 
